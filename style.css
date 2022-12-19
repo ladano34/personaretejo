@@ -1,0 +1,36 @@
+.button{
+  background: #009900;
+  color: white;
+  display: block;
+  border: none;
+  font-size: 50px;
+  padding: 2px;
+  font-family: "Trebuchet Ms", sans-serrif;
+}
+.button:hover{
+  background: yellow;
+  color: black;
+}
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+.nav{
+  color: black;
+  font-size: 40;
+}
+.nav a{
+  color: white;
+  padding: 5px;
+  font-size: 25px;
+}
+.nav a:hover{
+  background: yellow;
+  color: black;
+}
